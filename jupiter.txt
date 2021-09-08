@@ -1,1 +1,2 @@
-Jupiter is a planet in Milky Way
+Jupiter is a planet in Milky Way.
+Jupiter is big.
